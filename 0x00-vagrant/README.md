@@ -1,0 +1,1 @@
+This is a project about installing vagrant on your local machine, creating a virtual machine and using ssh to connect to the virtual machine. Typing the command 'uname' in the virtual machine and pushing the output of the command to github.
